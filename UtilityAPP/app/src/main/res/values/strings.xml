@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UtilityAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new">newActivity</string>
+    <string name="action_help">help</string>
+</resources>
